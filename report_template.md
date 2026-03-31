@@ -1,6 +1,6 @@
 # **Project Report – Campus Navigator AI**
 ### **A Search-Based Problem Solving Agent**
-### **Author: Saroj Parajuli (B.Tech CSE)**
+### **Author: Aditya Mishra (B.Tech CSE)**
 ### **VIT Bhopal University**
 
 ---
