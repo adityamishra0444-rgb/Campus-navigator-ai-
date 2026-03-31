@@ -1,6 +1,6 @@
 # Campus Navigator AI  
 ### A Simple Artificial Intelligence Search Project using BFS, DFS, and A*  
-**By: Saroj Parajuli**
+**By: Aditya Mishra **
 
 ---
 
@@ -139,6 +139,6 @@ A* Path: ['Hostel', 'Canteen', 'Library']
 ---
 
 ## 👨‍💻 Author
-**Saroj Parajuli**  
-B.Tech CSE (ED tech) 
+**Aditya Mishra **  
+B.Tech CSE 
 VIT Bhopal University  
