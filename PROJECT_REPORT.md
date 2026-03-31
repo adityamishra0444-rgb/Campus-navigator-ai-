@@ -1,6 +1,6 @@
 # Campus Navigator AI — Project Report
 
-**Author:** Saroj Parajuli  
+**Author:** Aditya Mishra  
 **Course:** Fundamentals in AI and ML  
 **Project:** Campus Navigation Assistant — Search-Based Problem Solving Agent
 
